@@ -1,31 +1,35 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Times New Roman';
     margin: 0;
     padding: 0;
+    background-color: #e3cdc9;
   }
   
   .header {
-    background-color: #f1f1f1;
+    font-family:'Times New Roman';
+    background-color: #b4796e;
+    color: #ebe3e1;
     padding: 20px;
   }
   
   .header h1 {
     text-align: center;
+    font-size: 40;
   }
   
   nav a {
-    color: black;
+    color: #2b1c19;
     text-decoration: none;
     padding: 10px;
   }
   
   nav a:hover {
-    color: blue;
+    color: #ba9992;
   }
   
   #about-me {
     padding: 20px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #b4796e;
   }
   
   .content {
@@ -40,5 +44,5 @@ body {
   footer {
     text-align: center;
     padding: 10px;
-    background-color: #f1f1f1;
+    background-color: #b4796e;
   }
