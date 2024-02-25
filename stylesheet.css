@@ -15,7 +15,7 @@ body {
   
   .header h1 {
     text-align: center;
-    font-size:larger;
+    font: size 360px;
   }
   
   nav a {
@@ -24,7 +24,7 @@ body {
   }
   
   nav a:hover {
-    color: #ba9992;
+    color: #ebe3e1;
   }
   
   #about-me {
